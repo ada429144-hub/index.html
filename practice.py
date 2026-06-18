@@ -1,0 +1,5 @@
+print("Hello, World!")
+print("This is a sample Python script.")
+print("You can add more lines of code here.")
+print("This script demonstrates how to print multiple lines of text.")
+print("Feel free to modify and expand this script as needed.")
